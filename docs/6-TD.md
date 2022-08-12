@@ -409,3 +409,5 @@ En la imagen 6.28 vemos en detalle los patrones creados.
 *Figura 6.28. Detalle de sombreado y rayado de caras*
 
 </center>
+
+En el enlace a [6-Pieza-1.FCStd](../img/designs/6/6-Pieza-1.FCStd) está disponible el archivo de diseño o fuente por si necesitamos consultar algún detalle.
