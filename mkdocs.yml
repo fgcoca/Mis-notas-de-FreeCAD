@@ -2,7 +2,7 @@
 site_name: Mis notas de FreeCAD
 site_description: Mis notas sobre el uso de esta herramienta libre documentada utilizando la versión estable 0.20 de FreeCAD o bien alguna versión 0.21 Conda en desarrollo
 site_author: Federico Coca
-site_url: https://github.com/fgcoca/Mis-notas-de-FreeCAD/blob/main
+site_url: https://fgcoca.github.io/Mis-notas-de-FreeCAD/
 
 # 2. Repositorio
 repo_name: fgcoca/Mis-notas-de-FreeCAD
