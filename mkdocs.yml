@@ -1,0 +1,119 @@
+# 1. Información del Taller
+site_name: Mis notas de FreeCAD
+site_description: Mis notas sobre el uso de esta herramienta libre documentada utilizando la versión estable 0.20 de FreeCAD o bien alguna versión 0.21 Conda en desarrollo
+site_author: Federico Coca
+site_url: https://github.com/fgcoca/Mis-notas-de-FreeCAD/blob/main
+
+# 2. Repositorio
+repo_name: fgcoca/Mis-notas-de-FreeCAD
+repo_url: https://github.com/fgcoca/Mis-notas-de-FreeCAD
+edit_uri: ""
+
+# 3. Copyright
+copyright: Copyright &copy; 2022 - 2035 Federico Coca
+
+# 4. RRSS
+extra:
+  social:
+    - icon: fontawesome/brands/twitter-square 
+      link: https://twitter.com/fgcoca
+      name: Twitter de Federico Coca
+    - icon: fontawesome/brands/github
+      link: https://github.com/fgcoca
+      name: Github de Federico Coca
+    - icon: fontawesome/brands/instagram
+      link: https://www.instagram.com/cocafederico/?hl=es
+      name: Instagram de Federico Coca
+    - icon: fontawesome/brands/twitter
+      link: https://twitter.com/clubroboticagra
+      name: Twitter de Club Robótica Granada 
+
+# 5. Navegación
+nav:
+  - Preliminar: index.md
+  - 1. Introducción: intro.md
+  - 2. Banco de trabajo PartDesign: 2-PD.md
+  - 3. Planos de referencia:
+    - 3.1. Plano de referencia que pasa por tres puntos: 3-plano-ref.md
+    - 3.2. Plano de referencia fijado a objeto: 3-PR-fijo-objeto.md
+    - 3.3. Plano de referencia normal: 3-PR-normal.md
+  - 4. Diseño paramétrico en FreeCAD. Otros enfoques: 4-parametros.md
+  - 5. Hojas de cálculo y datos dinámicos: 5-SPS-DD.md
+  - 6. Dibujo técnico: 6-TD.md
+  - Miscelanea:
+    - Autor: Miscelanea/about.md 
+    - Licencias: Miscelanea/lic.md
+    - Webgrafia/Bibliografía: Miscelanea/webgrafia.md
+    - Software utilizado: Miscelanea/soft.md
+
+# 6. Google Analytics
+#google_analytics:
+#  - !!python/object/apply:os.getenv ["GOOGLE_ANALYTICS_KEY"]
+#  - auto
+
+# 7. Configuración del tema
+theme:
+  name: material
+  # Color - Fuentes - Lenguaje
+  palette:
+    primary: light blue
+    accent: deep purple 
+  font:
+    text: Roboto 
+    code: Roboto Mono 
+  logo: img/favicon.png 
+  favicon: img/favicon.png 
+  language: es
+  extra:
+    search:
+      language: es, en
+  # Página 404
+  static_templates:
+    - 404.html
+  # No incluir los JavaScript de MkDocs
+  #include_search_page: false
+  #search_index_only: true
+
+# 8. Extensiones
+markdown_extensions:
+  - markdown.extensions.admonition
+  - markdown.extensions.codehilite:
+      linenums: true
+      # guess_lang: false
+  - markdown.extensions.def_list
+  - markdown.extensions.footnotes
+  - markdown.extensions.meta
+  - markdown.extensions.toc:
+      permalink: true
+  - pymdownx.arithmatex
+  - pymdownx.betterem:
+      smart_enable: all
+  - pymdownx.caret
+  - pymdownx.critic
+  - pymdownx.details
+  - pymdownx.emoji:
+      emoji_generator: !!python/name:pymdownx.emoji.to_svg
+  - pymdownx.inlinehilite
+  - pymdownx.keys
+  - pymdownx.magiclink:
+      repo_url_shorthand: true
+      user: squidfunk
+      repo: mkdocs-material
+  - pymdownx.mark
+  - pymdownx.smartsymbols
+  - pymdownx.superfences
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.tilde
+
+# 9. Necesario para la extensión pydownx.arithmatex
+extra_javascript:
+  # Este fichero es opcional y solo si se quiere sobreescribir la configuracion del plugin
+  #- js/extra.js
+  - https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-MML-AM_CHTML
+
+# 10. Plugins
+plugins:
+  - search
+  - minify:
+      minify_html: true
