@@ -1,0 +1,315 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
+   sodipodi:docname="consejos.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.5304854"
+     inkscape:cx="380.02595"
+     inkscape:cy="466.83159"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1876"
+     inkscape:window-height="1043"
+     inkscape:window-x="1964"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="fill:#008c00;fill-opacity:1;stroke:none;stroke-width:0.6015501;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.31981985"
+       d="M 5.4141989,3.5138855 15.903033,13.863424 16.028939,28.317029 H 113.44108 V 9.4668398 H 18.790014 Z"
+       id="rect864"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccc" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333311px;line-height:3px;font-family:'Sircuito Regular';-inkscape-font-specification:'Sircuito Regular, Bold';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="17.848558"
+       y="14.055717"
+       id="text835"><tspan
+         sodipodi:role="line"
+         id="tspan833"
+         x="17.848558"
+         y="14.055717"
+         style="fill:#ffffff;fill-opacity:1;stroke-width:0.26458332">Si dejamos el cursor del ratón sobre cualquier icono</tspan><tspan
+         sodipodi:role="line"
+         x="17.848558"
+         y="17.055717"
+         style="fill:#ffffff;fill-opacity:1;stroke-width:0.26458332"
+         id="tspan837" /><tspan
+         sodipodi:role="line"
+         x="17.848558"
+         y="20.055717"
+         style="fill:#ffffff;fill-opacity:1;stroke-width:0.26458332"
+         id="tspan839">de FreeCAD durante un par de segundos vamos a </tspan><tspan
+         sodipodi:role="line"
+         x="17.848558"
+         y="23.055717"
+         style="fill:#ffffff;fill-opacity:1;stroke-width:0.26458332"
+         id="tspan841" /><tspan
+         sodipodi:role="line"
+         x="17.848558"
+         y="26.055717"
+         style="fill:#ffffff;fill-opacity:1;stroke-width:0.26458332"
+         id="tspan843">obtener una descripción breve de lo que hace.</tspan></text>
+    <path
+       sodipodi:nodetypes="ccccccc"
+       inkscape:connector-curvature="0"
+       id="path824"
+       d="M 5.4141989,34.913857 15.365143,45.263395 15.484592,59.717 H 107.90123 V 40.866811 H 18.104073 Z"
+       style="fill:#008c00;fill-opacity:1;stroke:none;stroke-width:0.58592272;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.31981985" />
+    <text
+       id="text836"
+       y="45.455685"
+       x="17.848558"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333311px;line-height:3px;font-family:'Sircuito Regular';-inkscape-font-specification:'Sircuito Regular, Bold';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         style="fill:#ffffff;fill-opacity:1;stroke-width:0.26458332"
+         y="45.455685"
+         x="17.848558"
+         sodipodi:role="line"
+         id="tspan855">Es necesario tener un objeto como el cubo para</tspan><tspan
+         style="fill:#ffffff;fill-opacity:1;stroke-width:0.26458332"
+         y="48.455685"
+         x="17.848558"
+         sodipodi:role="line"
+         id="tspan861" /><tspan
+         style="fill:#ffffff;fill-opacity:1;stroke-width:0.26458332"
+         y="51.455685"
+         x="17.848558"
+         sodipodi:role="line"
+         id="tspan863">poder juzgar con criterio el estilo de navegación</tspan><tspan
+         style="fill:#ffffff;fill-opacity:1;stroke-width:0.26458332"
+         y="54.455685"
+         x="17.848558"
+         sodipodi:role="line"
+         id="tspan865" /><tspan
+         style="fill:#ffffff;fill-opacity:1;stroke-width:0.26458332"
+         y="57.455685"
+         x="17.848558"
+         sodipodi:role="line"
+         id="tspan867">que mejor se adapta a nuestras preferencias.</tspan></text>
+    <path
+       sodipodi:nodetypes="ccccccc"
+       inkscape:connector-curvature="0"
+       id="path824-3"
+       d="M 9.465163,63.342937 21.098216,78.044842 20.983023,102.49933 H 114.47031 L 114.84802,74.330913 23.979015,72.740787 Z"
+       style="fill:#008c00;fill-opacity:1;stroke:none;stroke-width:0.78731954;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.31981985" />
+    <text
+       id="text836-6"
+       y="77.15831"
+       x="22.403145"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333311px;line-height:3px;font-family:'Sircuito Regular';-inkscape-font-specification:'Sircuito Regular, Bold';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         style="fill:#ffffff;fill-opacity:1;stroke-width:0.26458332"
+         y="77.15831"
+         x="22.403145"
+         sodipodi:role="line"
+         id="tspan867-6">Podemos usar las herramientas de restricción de</tspan><tspan
+         style="fill:#ffffff;fill-opacity:1;stroke-width:0.26458332"
+         y="80.15831"
+         x="22.403145"
+         sodipodi:role="line"
+         id="tspan868" /><tspan
+         style="fill:#ffffff;fill-opacity:1;stroke-width:0.26458332"
+         y="83.15831"
+         x="22.403145"
+         sodipodi:role="line"
+         id="tspan870">diferentes maneras: seleccionando el elemento en </tspan><tspan
+         style="fill:#ffffff;fill-opacity:1;stroke-width:0.26458332"
+         y="86.15831"
+         x="22.403145"
+         sodipodi:role="line"
+         id="tspan876" /><tspan
+         style="fill:#ffffff;fill-opacity:1;stroke-width:0.26458332"
+         y="89.15831"
+         x="22.403145"
+         sodipodi:role="line"
+         id="tspan874">el boceto y luego en la herramienta de restricción</tspan><tspan
+         style="fill:#ffffff;fill-opacity:1;stroke-width:0.26458332"
+         y="92.15831"
+         x="22.403145"
+         sodipodi:role="line"
+         id="tspan884" /><tspan
+         style="fill:#ffffff;fill-opacity:1;stroke-width:0.26458332"
+         y="95.15831"
+         x="22.403145"
+         sodipodi:role="line"
+         id="tspan886">o seleccionando la herramienta primero y luego </tspan><tspan
+         style="fill:#ffffff;fill-opacity:1;stroke-width:0.26458332"
+         y="98.15831"
+         x="22.403145"
+         sodipodi:role="line"
+         id="tspan888" /><tspan
+         style="fill:#ffffff;fill-opacity:1;stroke-width:0.26458332"
+         y="101.15831"
+         x="22.403145"
+         sodipodi:role="line"
+         id="tspan890">hacer clic en el elemento o elementos a restringir</tspan></text>
+    <path
+       style="fill:#008c00;fill-opacity:1;stroke:none;stroke-width:0.60119945;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.31981985"
+       d="m 5.4141989,109.11386 10.4766091,10.34954 0.37757,20.11936 96.920892,-0.25181 0.12591,-24.26414 H 18.774424 Z"
+       id="path840"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccc" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333311px;line-height:3px;font-family:'Sircuito Regular';-inkscape-font-specification:'Sircuito Regular, Bold';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="17.848558"
+       y="119.65569"
+       id="text852"><tspan
+         id="tspan850"
+         sodipodi:role="line"
+         x="17.848558"
+         y="119.65569"
+         style="fill:#ffffff;fill-opacity:1;stroke-width:0.26458332">Es buena idea usar el texto que aparece cuando</tspan><tspan
+         sodipodi:role="line"
+         x="17.848558"
+         y="122.65569"
+         style="fill:#ffffff;fill-opacity:1;stroke-width:0.26458332"
+         id="tspan869" /><tspan
+         sodipodi:role="line"
+         x="17.848558"
+         y="125.65569"
+         style="fill:#ffffff;fill-opacity:1;stroke-width:0.26458332"
+         id="tspan871">pasamos el ratón sobre el ícono de una herramienta.</tspan><tspan
+         sodipodi:role="line"
+         x="17.848558"
+         y="128.65569"
+         style="fill:#ffffff;fill-opacity:1;stroke-width:0.26458332"
+         id="tspan873" /><tspan
+         sodipodi:role="line"
+         x="17.848558"
+         y="131.65569"
+         style="fill:#ffffff;fill-opacity:1;stroke-width:0.26458332"
+         id="tspan875">Es una buena manera de explorar el uso de nuevas</tspan><tspan
+         sodipodi:role="line"
+         x="17.848558"
+         y="134.65569"
+         style="fill:#ffffff;fill-opacity:1;stroke-width:0.26458332"
+         id="tspan877" /><tspan
+         sodipodi:role="line"
+         x="17.848558"
+         y="137.65569"
+         style="fill:#ffffff;fill-opacity:1;stroke-width:0.26458332"
+         id="tspan879">herramientas.</tspan></text>
+    <path
+       sodipodi:nodetypes="ccccccc"
+       inkscape:connector-curvature="0"
+       id="path881"
+       d="m 5.4141989,142.7141 10.4766091,10.34954 0.37757,7.6547 97.046802,-0.75544 V 148.66705 H 18.774424 Z"
+       style="fill:#008c00;fill-opacity:1;stroke:none;stroke-width:0.60119945;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.31981985" />
+    <text
+       id="text897"
+       y="153.25601"
+       x="17.848558"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333311px;line-height:3px;font-family:'Sircuito Regular';-inkscape-font-specification:'Sircuito Regular, Bold';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         id="tspan895"
+         style="fill:#ffffff;fill-opacity:1;stroke-width:0.26458332"
+         y="153.25601"
+         x="17.848558"
+         sodipodi:role="line">No es necesario un diseño complejo para aprender</tspan><tspan
+         style="fill:#ffffff;fill-opacity:1;stroke-width:0.26458332"
+         y="156.25601"
+         x="17.848558"
+         sodipodi:role="line"
+         id="tspan926" /><tspan
+         style="fill:#ffffff;fill-opacity:1;stroke-width:0.26458332"
+         y="159.25601"
+         x="17.848558"
+         sodipodi:role="line"
+         id="tspan928">el uso básico de las hojaas de cálculo.</tspan></text>
+    <path
+       style="fill:#008c00;fill-opacity:1;stroke:none;stroke-width:0.60852081;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.31981985"
+       d="m 5.4141989,164.91376 10.7333291,10.34954 0.386822,7.6547 99.42485,-0.75544 V 170.86671 H 19.101805 Z"
+       id="path851"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccc" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333311px;line-height:3px;font-family:'Sircuito Regular';-inkscape-font-specification:'Sircuito Regular, Bold';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="17.848558"
+       y="175.15553"
+       id="text860"><tspan
+         id="tspan858"
+         sodipodi:role="line"
+         x="17.848558"
+         y="175.15553"
+         style="fill:#ffffff;fill-opacity:1;stroke-width:0.26458332">Una pieza sencilla como la que usamos no necesita </tspan><tspan
+         sodipodi:role="line"
+         x="17.848558"
+         y="178.15553"
+         style="fill:#ffffff;fill-opacity:1;stroke-width:0.26458332"
+         id="tspan866" /><tspan
+         sodipodi:role="line"
+         x="17.848558"
+         y="181.15553"
+         style="fill:#ffffff;fill-opacity:1;stroke-width:0.26458332"
+         id="tspan872">mas vistas para mostrar sus atributos y dimensiones</tspan></text>
+    <path
+       sodipodi:nodetypes="ccccccc"
+       inkscape:connector-curvature="0"
+       id="path856"
+       d="m 5.4141989,187.61376 10.7333291,10.34954 0.386822,7.6547 99.42485,-0.75544 V 193.56671 H 19.101805 Z"
+       style="fill:#008c00;fill-opacity:1;stroke:none;stroke-width:0.60852081;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.31981985" />
+    <text
+       id="text866"
+       y="197.85558"
+       x="17.848558"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333311px;line-height:3px;font-family:'Sircuito Regular';-inkscape-font-specification:'Sircuito Regular, Bold';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         id="tspan864"
+         style="fill:#ffffff;fill-opacity:1;stroke-width:0.26458332"
+         y="197.85558"
+         x="17.848558"
+         sodipodi:role="line">Podemos hacer clic y arrastrar dimensiones a </tspan><tspan
+         style="fill:#ffffff;fill-opacity:1;stroke-width:0.26458332"
+         y="200.85558"
+         x="17.848558"
+         sodipodi:role="line"
+         id="tspan882"></tspan><tspan
+         style="fill:#ffffff;fill-opacity:1;stroke-width:0.26458332"
+         y="203.85558"
+         x="17.848558"
+         sodipodi:role="line"
+         id="tspan885">diferentes zonas para organizar todo correctamente</tspan></text>
+  </g>
+</svg>
