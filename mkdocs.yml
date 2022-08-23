@@ -13,20 +13,20 @@ edit_uri: ""
 copyright: Copyright &copy; 2022 - 2035 Federico Coca
 
 # 4. RRSS
-extra:
-  social:
-    - icon: fontawesome/brands/twitter-square 
-      link: https://twitter.com/fgcoca
-      name: Twitter de Federico Coca
-    - icon: fontawesome/brands/github
-      link: https://github.com/fgcoca
-      name: Github de Federico Coca
-    - icon: fontawesome/brands/instagram
-      link: https://www.instagram.com/cocafederico/?hl=es
-      name: Instagram de Federico Coca
-    - icon: fontawesome/brands/twitter
-      link: https://twitter.com/clubroboticagra
-      name: Twitter de Club Robótica Granada 
+# extra:
+#   social:
+#     - icon: fontawesome/brands/twitter-square 
+#       link: https://twitter.com/fgcoca
+#       name: Twitter de Federico Coca
+#     - icon: fontawesome/brands/github
+#       link: https://github.com/fgcoca
+#       name: Github de Federico Coca
+#     - icon: fontawesome/brands/instagram
+#       link: https://www.instagram.com/cocafederico/?hl=es
+#       name: Instagram de Federico Coca
+#     - icon: fontawesome/brands/twitter
+#       link: https://twitter.com/clubroboticagra
+#       name: Twitter de Club Robótica Granada 
 
 # 5. Navegación
 nav:
@@ -34,12 +34,16 @@ nav:
   - 1. Introducción: intro.md
   - 2. Banco de trabajo PartDesign: 2-PD.md
   - 3. Planos de referencia:
+    - 3.0. ¿Por qué debemos usar planos de referencia?: 3-porquePR.md
     - 3.1. Plano de referencia que pasa por tres puntos: 3-plano-ref.md
     - 3.2. Plano de referencia fijado a objeto: 3-PR-fijo-objeto.md
     - 3.3. Plano de referencia normal: 3-PR-normal.md
+    - 3.4. Plano de referencia fijado a cara plana: 3-PR-fijo-cara-plana.md
   - 4. Diseño paramétrico en FreeCAD. Otros enfoques: 4-parametros.md
   - 5. Hojas de cálculo y datos dinámicos: 5-SPS-DD.md
   - 6. Dibujo técnico: 6-TD.md
+  - 7. Tornillos y tuercas: 7-tornillos.md
+  - 8. Denominación topológica: 8-topologia.md
   - Miscelanea:
     - Autor: Miscelanea/about.md 
     - Licencias: Miscelanea/lic.md

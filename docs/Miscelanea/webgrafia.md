@@ -19,4 +19,7 @@ Indicación de referencia: en estas fichas cada cuadradito mide 5 mm de lado.
 * Canal Youtube [Juan Carlos - yosoyvenezolano](https://www.youtube.com/c/yosoyvenezolanoEnYoutube/featured)
 
 * Una lección sobre el croquizador de Christoph Blaue traducida por Juan Carlos Ruiz Gómez.
-  
+
+* PORTAL DE DIBUJO TÉCNICO de [Ramón del Aguila](http://dibujo.ramondelaguila.com/)
+
+* Descripción de la macro [FreeCAD_Fastener_holes](https://github.com/pgilfernandez/FreeCAD_Fastener_holes) de Pablo Gil [pgilfernandez](https://github.com/pgilfernandez)
