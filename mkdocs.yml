@@ -33,18 +33,36 @@ nav:
   - Preliminar: index.md
   - 1. Introducción: intro.md
   - 2. Banco de trabajo PartDesign: 2-PD.md
+  - 2bis. Ampliación de PartDesign: 2bis-PD.md
   - 3. Planos de referencia:
     - 3.0. ¿Por qué debemos usar planos de referencia?: 3-porquePR.md
     - 3.1. Plano de referencia que pasa por tres puntos: 3-plano-ref.md
     - 3.2. Plano de referencia fijado a objeto: 3-PR-fijo-objeto.md
     - 3.3. Plano de referencia normal: 3-PR-normal.md
     - 3.4. Plano de referencia fijado a cara plana: 3-PR-fijo-cara-plana.md
+    - 3.5. La propiedad Placement: 3-placement.md
   - 4. Diseño paramétrico en FreeCAD. Otros enfoques: 4-parametros.md
   - 5. Hojas de cálculo y datos dinámicos: 5-SPS-DD.md
   - 6. Dibujo técnico: 6-TD.md
   - 7. Tornillos y tuercas: 7-tornillos.md
-  - 8. Curvas en FreeCAD:
-    - 8.1.  Repaso de conceptos básicos sobre curvas en FreeCAD: 8_1-repaso-curvas.md
+  - 7bis. Ampliación tornillos y tuercas:
+    - Banco de trabajo Fastener: bt_fastener.md
+    - Banco de trabajo ThreadProfile: bt_ThreadProfile.md
+  - 8. Edición de piezas 3D: 8-manipula.md
+  - 9. Curvas en FreeCAD:
+    - 9.1. Repaso de conceptos básicos sobre curvas en FreeCAD: 9_1-repaso-curvas.md
+    - 9.2. B-Splines: 9_2-bsplines.md
+    - 9.3. Banco de trabajo Curves: 9_3-curves.md
+  - 10. Textos en FreeCAD:
+    - Desde Draft: Texto/draft.md
+    - Importar textos: Texto/importar.md
+    - Texto sobre superficies curvas: Texto/tcurva.md
+    - La macro FCCircularText: Texto/Macro_FCCircularText.md
+  - Ejemplos resueltos:
+    - Introducción: ejemplos/intro_ejemplos.md
+    - Curves: ejemplos/ejem_curves.md
+    - Ficha de empalme: ejemplos/ficha_em.md
+    - Colección de ejemplos resueltos: ejemplos/coleccion.md
   - Miscelanea:
     - Autor: Miscelanea/about.md 
     - Licencias: Miscelanea/lic.md

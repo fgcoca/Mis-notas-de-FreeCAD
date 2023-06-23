@@ -20,6 +20,14 @@ Indicación de referencia: en estas fichas cada cuadradito mide 5 mm de lado.
 
 * Una lección sobre el croquizador de Christoph Blaue traducida por Juan Carlos Ruiz Gómez.
 
+* Canal youtube de Rafael Rodríguez García: [Rafael 3D](https://www.youtube.com/@Rafa3D/featured)
+
 * PORTAL DE DIBUJO TÉCNICO de [Ramón del Aguila](http://dibujo.ramondelaguila.com/)
 
+* Documentación del banco de trabajo [ThreadProfile](https://github.com/mwganson/ThreadProfile)
+
 * Descripción de la macro [FreeCAD_Fastener_holes](https://github.com/pgilfernandez/FreeCAD_Fastener_holes) de Pablo Gil [pgilfernandez](https://github.com/pgilfernandez)
+
+* Rama master del repositorio público [QuickMeasure](https://github.com/DanMiel/QuickMeasure)
+
+* Te has quedado sin ideas para trabajar el diseño 3D. El repositorio [Practices-with-FreeCAD](https://github.com/berserkdesign/Practices-with-FreeCAD) de BERSERK, berserkdesign te ayudará.

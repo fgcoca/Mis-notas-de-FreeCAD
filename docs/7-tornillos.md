@@ -9,6 +9,8 @@ Existe un banco de trabajo denominado **Fasteners** (tornillos) que es muy útil
 
 * [Tutorial Tornillos en FreeCAD](https://fgcoca.github.io/Tornillos-en-FreeCAD/)
 
+En la wiki de FreeCAD tenemos un tutorial completo denominado [Thread for Screw Tutorial](https://wiki.freecadweb.org/Thread_for_Screw_Tutorial) que es un tratado completo de sistemas de creación de roscas para tornillos donde se exponen seis métodos diferentes.
+
 ## <FONT COLOR=#007575>**7.1. Introducción y repaso**</font>
 Comenzamos recordando como se realiza una barrido recorriendo una trayectoria. Para ello vamos a trabajar con una primitiva geométrica paramétrica como es la hélice que nos va a marcar el recorrido del barrido. Por otra parte haremos el barrido partiendo de un boceto de un pentágono para comprobar el recorrido que realiza cada uno de sus vértices según la trayectoria marcada.
 
@@ -832,19 +834,3 @@ En la tabla siguiente tenemos los enlaces para descargar los archivos del diseñ
 | <br>[Diseño](../img/designs/7/7-Pieza-4.FCStd)</br><br>[STL](../img/designs/7/7-Pieza-4-Tuerca M20.stl)</br><br>[AMF](../img/designs/7/7-Pieza-4-Tuerca M20.amf)</br><br>[STEP](../img/designs/7/7-Pieza-4-Tuerca M20.step)</br> | ![La pieza en PrusaSlicer](../img/tornillos/7-Pieza-4-Tuerca M20.png) | ![Pieza impresa en 3D](../img/tornillos/7-Pieza-4-Tuerca M20.jpeg) |
 
 </center>
-
-## <FONT COLOR=#007575>**7.7. Banco de trabajo Fastener**</font>
-La documentación sobre su uso está en [este tutorial donde describo el banco de trabajo Fasteners](https://fgcoca.github.io/Tornillos-en-FreeCAD/) que viene a resolver la mayoría de los problemas de crear y usar tornillos pasantes en FreeCAD.
-
-Es aconsejable entrar en el 'Administrador de complementos' para comprobar si hay alguna actualización para el banco de trabajo.
-
-Imprescindible hacer referencia al mismo dentro de la sección tornillos. Simplemente vamos a mostrar una animación como la de la Figura 7.69 para recordar su uso básico. Simplemente se coloca un tornillo M4 y su tuerca y un trozo de varilla roscada M3 con dos tuercas, aplicando propiedades que configuran su correcta visualización y configuración.
-
-<center>
-
-![Uso básico del banco de trabajo Fastener](../img/tornillos/F7_69.gif)  
-*Figura 7.69. Uso básico del banco de trabajo Fastener*
-
-</center>
-
-En el enlace a [7-Pieza-6.FCStd](../img/designs/7/7-Pieza-6.FCStd) tenemos el archivo de diseño por si queremos disponer del mismo para practicar.
