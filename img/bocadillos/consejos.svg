@@ -26,8 +26,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.5304854"
-     inkscape:cx="137.86476"
-     inkscape:cy="1042.8064"
+     inkscape:cx="217.90472"
+     inkscape:cy="1042.153"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -555,11 +555,48 @@
          y="284.25644"
          x="18.248358"
          sodipodi:role="line"
-         id="tspan703"></tspan><tspan
+         id="tspan703" /><tspan
          style="fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
          y="287.25644"
          x="18.248358"
          sodipodi:role="line"
          id="tspan705">el árbol de objeto con operaciones como redondeos. </tspan></text>
+    <path
+       sodipodi:nodetypes="ccccccc"
+       inkscape:connector-curvature="0"
+       id="path357"
+       d="m 5.814,296.414 10.733,10.93321 V 320.689 l 109.52553,-0.55066 0.16053,-17.10648 L 19.501622,302.703 Z"
+       style="fill:#008c00;fill-opacity:1;stroke:none;stroke-width:0.625445;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.31982" />
+    <text
+       id="text369"
+       y="306.95636"
+       x="18.248358"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;line-height:3px;font-family:'Sircuito Regular';-inkscape-font-specification:'Sircuito Regular, Bold';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         style="fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
+         y="306.95636"
+         x="18.248358"
+         sodipodi:role="line"
+         id="tspan367">Es importante unir los puntos sin mover la segunda curva</tspan><tspan
+         style="fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
+         y="309.95636"
+         x="18.248358"
+         sodipodi:role="line"
+         id="tspan637"></tspan><tspan
+         style="fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
+         y="312.95636"
+         x="18.248358"
+         sodipodi:role="line"
+         id="tspan639">del lugar original con el fin de que no sufra modificaciones.</tspan><tspan
+         style="fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
+         y="315.95636"
+         x="18.248358"
+         sodipodi:role="line"
+         id="tspan641"></tspan><tspan
+         style="fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
+         y="318.95636"
+         x="18.248358"
+         sodipodi:role="line"
+         id="tspan643">Recordemos que no es una simetria realmente restringida.</tspan></text>
   </g>
 </svg>
