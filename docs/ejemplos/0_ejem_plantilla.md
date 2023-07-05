@@ -22,6 +22,3 @@
 </center>
 
 ***
-
-
-Para ejemplo lo del pentagono en el video https://www.youtube.com/watch?v=Cq4vnepWyEo y lo del final junto que el video siguiente https://www.youtube.com/watch?v=CIlSW8bdR-I&t=35s

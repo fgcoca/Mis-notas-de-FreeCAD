@@ -3,4 +3,5 @@ Esta sección se va a dedicar a crear entradas con ejemplos resueltos de todo ti
 
 También se irán añadiendo enlaces a ejemplos resueltos sin explicación de los mismos o explicando solamente lo que se considere muy importante. En esta colección se pretende que el nivel de dificultad sea progresivo y en cualquier caso van a ser el resultado de seguir alguno de los tutoriales siguientes:
 
-*  Canal Youtube de la página que pertenece a Empaques ETESA en un proyecto de investigación, difusión y formación denominado BERSERK DESIGN. Este es el [enlace al canal](https://www.youtube.com/@FreeCADdesign/featured).
+* **Ejercicios sencillos**. Canal Youtube de la página que pertenece a Empaques ETESA en un proyecto de investigación, difusión y formación denominado BERSERK DESIGN. Este es el [enlace al canal](https://www.youtube.com/@FreeCADdesign/featured).
+* **Ejercicios de complejidad media o alta**

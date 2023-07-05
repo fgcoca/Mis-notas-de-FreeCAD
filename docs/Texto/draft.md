@@ -140,6 +140,67 @@ En el enlace siguiente tenemos el Archivo fuente de FreeCAD conteniendo diferent
 
 * [Enlace para descarga del archivo fuente de FreeCAD](../img/designs/10/texto_SS.FCStd)
 
+## <FONT COLOR=#007575>**Centrado del texto**</font>
+Vamos a ver una forma sencilla de centrar un texto creado con ShapeString. Partimos de un objeto rectangular con esquinas redondeadas de 5mm de espesor obtenido a partir del boceto de la figura siguiente.
+
+<center>
+
+![Boceto del objeto para centrar texto](../img/Texto/centrar/centra1.png)  
+*Boceto del objeto para centrar texto*
+
+</center>
+
+Sobre la cara superior del objeto creamos un punto de referencia que situamos en el centro de masas porque pretendemos centrar el texto en esa cara del objeto. Vemos la situación de creación en la figura siguiente.
+
+<center>
+
+![Punto de referencia en el centro de masas de la cara superior](../img/Texto/centrar/centra2.png)  
+*Punto de referencia en el centro de masas de la cara superior*
+
+</center>
+
+Nos dirigimos al banco Draft y creamos la cadena de texto que vemos en la figura siguiente. Nos aseguramos de que la cadena está dentro del body donde se ha creado el objeto 3D.
+
+<center>
+
+![Cadena de texto](../img/Texto/centrar/centra3.png)  
+*Cadena de texto*
+
+</center>
+
+Ocultamos el objeto 3D y abrimos la pestaña vista con el ShapeString seleccionado, localizamos la propiedad BoundingBox y la ponemos en true. Esto va a poner un rectángulo encuadrando la cadena de texto en el que aparecen tres cosas importantes: la referencia 0,00 como origen del texto, la longitud horizontal del BoundingBox (137,09 en este caso) y la longitud vertical del mismo (9,51 en este caso). En la figura siguiente vemos una parte de esto.
+
+<center>
+
+![Origen y tamaño del BoundingBox de la cadena de texto](../img/Texto/centrar/centra4.png)  
+*Origen y tamaño del BoundingBox de la cadena de texto*
+
+</center>
+
+Hacemos visible el objeto 3D y colocamos la cadena de texto sobre su cara superior. Cambiamos a la pestaña Datos de ShapeString y con la propiedad Map Mode seleccionamos la cara y le damos a OK. En la figura siguiente vemos la situación tras entrar en la propiedad y realizar la selección.
+
+<center>
+
+![Mover la cadena de texto con Map Mode](../img/Texto/centrar/centra5.png)  
+*Mover la cadena de texto con Map Mode*
+
+</center>
+
+Ahora vamos a posicionar el texto también desde Map Mode. Para ello tanto en dirección X como en Y vamos a colocar un valor que se va a obtener como la mitad del valor del BoundingBox de cada eje dividido por dos. En ambos ejes será con signo negativo para que se desplace al centro de masas de la cara. En el eje X será -137,09/2 y en el eje Y será -9,51/2. Introducimos los valores activando el icono para fórmula tal y como vemos en la figura siguiente.
+
+<center>
+
+![Centrar la cadena de texto con Map Mode](../img/Texto/centrar/centra6.png)  
+*Centrar la cadena de texto con Map Mode*
+
+</center>
+
+Ya podemos extruir o vaciar el texto en el objeto 3D estando este texto perfectamente centrado.
+
+En el enlace siguiente tenemos el Archivo fuente de FreeCAD:
+
+* [Enlace para descarga del archivo fuente de FreeCAD](../img/designs/10/centrar.FCStd)
+
 ## <FONT COLOR=#007575>**Ejemplo sencillo de llavero**</font>
 Simplemente vamos a enlazar el archivo de diseño y ver el resultado final de un posible uso de una herramienta como esta.
 

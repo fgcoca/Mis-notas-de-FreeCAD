@@ -58,10 +58,12 @@ nav:
     - Importar textos: Texto/importar.md
     - Texto sobre superficies curvas: Texto/tcurva.md
     - La macro FCCircularText: Texto/Macro_FCCircularText.md
+  - 11. Árbol por defecto, Macro y Script: macro_script.md
   - Ejemplos resueltos:
     - Introducción: ejemplos/intro_ejemplos.md
     - Curves: ejemplos/ejem_curves.md
     - Ficha de empalme: ejemplos/ficha_em.md
+    - Personalizar cajetín: ejemplos/cajetin.md
     - Colección de ejemplos resueltos: ejemplos/coleccion.md
   - Miscelanea:
     - Autor: Miscelanea/about.md 
